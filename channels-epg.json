@@ -52425,6 +52425,161 @@
       "icon": "http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"
     }
   ],
+  "PREMIERSPORTS2.ph": [
+    {
+      "start": "20260219080000 +0000",
+      "stop": "20260219100000 +0000",
+      "title": "2025 Ryder Cup",
+      "subtitle": "",
+      "description": "2025 Ryder Cup: 40th Anniversary Match.",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/premiersports2.png"
+    },
+    {
+      "start": "20260219100000 +0000",
+      "stop": "20260219190000 +0000",
+      "title": "WTA 1000 Live",
+      "subtitle": "",
+      "description": "Dubai Duty Free Tennis Championships.",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/premiersports2.png"
+    },
+    {
+      "start": "20260219190000 +0000",
+      "stop": "20260219220000 +0000",
+      "title": "World Rugby Sevens Series",
+      "subtitle": "",
+      "description": "World Rugby.",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/premiersports2.png"
+    },
+    {
+      "start": "20260219220000 +0000",
+      "stop": "20260220030000 +0000",
+      "title": "DP World Tour",
+      "subtitle": "",
+      "description": "",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/blastsports.png"
+    },
+    {
+      "start": "20260220030000 +0000",
+      "stop": "20260220080000 +0000",
+      "title": "LPGA Tour Live",
+      "subtitle": "",
+      "description": "LPGA Tour.",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/premiersports2.png"
+    },
+    {
+      "start": "20260220080000 +0000",
+      "stop": "20260220130000 +0000",
+      "title": "WTA 1000",
+      "subtitle": "",
+      "description": "Dubai Duty Free Tennis Championships.",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/premiersports2.png"
+    },
+    {
+      "start": "20260220130000 +0000",
+      "stop": "20260220170000 +0000",
+      "title": "WTA 1000 Live",
+      "subtitle": "",
+      "description": "Dubai Duty Free Tennis Championships.",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/premiersports2.png"
+    },
+    {
+      "start": "20260220170000 +0000",
+      "stop": "20260220220000 +0000",
+      "title": "2025 MGM Macau",
+      "subtitle": "",
+      "description": "MGM Macau: Tennis Masters.",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/premiersports2.png"
+    },
+    {
+      "start": "20260220220000 +0000",
+      "stop": "20260221030000 +0000",
+      "title": "DP World Tour",
+      "subtitle": "",
+      "description": "",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/blastsports.png"
+    },
+    {
+      "start": "20260221030000 +0000",
+      "stop": "20260221033000 +0000",
+      "title": "WTA All Access 2025",
+      "subtitle": "",
+      "description": "WTA All Access.",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/premiersports2.png"
+    },
+    {
+      "start": "20260221033000 +0000",
+      "stop": "20260221083000 +0000",
+      "title": "LPGA Tour Live",
+      "subtitle": "",
+      "description": "LPGA Tour.",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/premiersports2.png"
+    },
+    {
+      "start": "20260221083000 +0000",
+      "stop": "20260221093000 +0000",
+      "title": "Asian Tour",
+      "subtitle": "",
+      "description": "",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/premiersports2.png"
+    },
+    {
+      "start": "20260221093000 +0000",
+      "stop": "20260221140000 +0000",
+      "title": "DP World Tour Live",
+      "subtitle": "",
+      "description": "DP World Tour.",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/premiersports2.png"
+    },
+    {
+      "start": "20260221140000 +0000",
+      "stop": "20260221150000 +0000",
+      "title": "2025 Ryder Cup",
+      "subtitle": "",
+      "description": "Ryder Cup.",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/premiersports2.png"
+    },
+    {
+      "start": "20260221150000 +0000",
+      "stop": "20260221173000 +0000",
+      "title": "WTA 1000 Live",
+      "subtitle": "",
+      "description": "Dubai Duty Free Tennis Championships.",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/premiersports2.png"
+    },
+    {
+      "start": "20260221173000 +0000",
+      "stop": "20260221220000 +0000",
+      "title": "2025 MGM Macau",
+      "subtitle": "",
+      "description": "MGM Macau: Tennis Masters.",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/premiersports2.png"
+    },
+    {
+      "start": "20260221220000 +0000",
+      "stop": "20260222023000 +0000",
+      "title": "DP World Tour",
+      "subtitle": "",
+      "description": "",
+      "category": "Sports",
+      "icon": "https://s3.ap-southeast-1.amazonaws.com/epg.tapdmv.com/blastsports.png"
+    }
+  ],
   "unifi.spotv.my": [
     {
       "start": "20260218150000 +0000",
