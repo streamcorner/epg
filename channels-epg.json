@@ -44883,6 +44883,629 @@
       "icon": ""
     }
   ],
+  "Premier.Sports.Rugby.my": [
+    {
+      "start": "20260219014200 +0000",
+      "stop": "20260219021200 +0000",
+      "title": "Classics: 2001 - Wales V England",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260219021200 +0000",
+      "stop": "20260219040200 +0000",
+      "title": "Under-20 Six Nations: Scotland U20 V England U20",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260219040200 +0000",
+      "stop": "20260219055200 +0000",
+      "title": "Under-20 Six Nations: Ireland U20 V Italy U20",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260219055200 +0000",
+      "stop": "20260219074200 +0000",
+      "title": "Under-20 Six Nations: Wales U20 V France U20",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260219074200 +0000",
+      "stop": "20260219081200 +0000",
+      "title": "Classics: 2010 - France V Italy",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260219081200 +0000",
+      "stop": "20260219100200 +0000",
+      "title": "Super League: York Knights V Hull KR",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260219100200 +0000",
+      "stop": "20260219115200 +0000",
+      "title": "NRL All-Stars 2026: Maori V Indigenous",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260219115200 +0000",
+      "stop": "20260219142200 +0000",
+      "title": "AFL Origin: Western Australia V Victoria",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260219142200 +0000",
+      "stop": "20260219145200 +0000",
+      "title": "Classics: 2007 - Scotland V Italy",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260219145200 +0000",
+      "stop": "20260219152200 +0000",
+      "title": "Classics: 1998 - Wales V France",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260219152200 +0000",
+      "stop": "20260219190000 +0000",
+      "title": "Super Rugby: Force V Brumbies",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260219190000 +0000",
+      "stop": "20260219214700 +0000",
+      "title": "(L) Super League: Hull KR V Brisbane Broncos",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260219214700 +0000",
+      "stop": "20260219221200 +0000",
+      "title": "Classics: 2009 - Italy V Ireland",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260219221200 +0000",
+      "stop": "20260219224200 +0000",
+      "title": "Classics: 2007 - Ireland V France",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260219224200 +0000",
+      "stop": "20260220003200 +0000",
+      "title": "Guinness Six Nations: Scotland V England",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220003200 +0000",
+      "stop": "20260220022200 +0000",
+      "title": "Guinness Six Nations: Wales V France",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220022200 +0000",
+      "stop": "20260220041200 +0000",
+      "title": "Super League: Hull KR V Brisbane Broncos",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220041200 +0000",
+      "stop": "20260220060000 +0000",
+      "title": "Super Rugby: Waratahs V Reds",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220060000 +0000",
+      "stop": "20260220080200 +0000",
+      "title": "(L) Super Rugby: Hurricanes V Moana Pasifika",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220080200 +0000",
+      "stop": "20260220083000 +0000",
+      "title": "Classics: 2001 - Wales V England",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220083000 +0000",
+      "stop": "20260220103200 +0000",
+      "title": "(L) Super Rugby: Waratahs V Fijian Drua",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220103200 +0000",
+      "stop": "20260220110200 +0000",
+      "title": "Classics: 2005 - Wales V Ireland",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220110200 +0000",
+      "stop": "20260220125200 +0000",
+      "title": "Super League: Hull KR V Brisbane Broncos",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220125200 +0000",
+      "stop": "20260220130200 +0000",
+      "title": "URC Match Highlights: Benetton V Scarlets",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220130200 +0000",
+      "stop": "20260220131200 +0000",
+      "title": "URC Match Highlights: Ospreys V Dragons",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220131200 +0000",
+      "stop": "20260220134200 +0000",
+      "title": "Classics: 2007 - Scotland V Italy",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220134200 +0000",
+      "stop": "20260220153200 +0000",
+      "title": "Super Rugby: Hurricanes V Moana Pasifika",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220153200 +0000",
+      "stop": "20260220175200 +0000",
+      "title": "Super Rugby: Waratahs V Fijian Drua",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220175200 +0000",
+      "stop": "20260220193500 +0000",
+      "title": "Under-20 Six Nations: Scotland U20 V England U20",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220193500 +0000",
+      "stop": "20260220214700 +0000",
+      "title": "(L) Under-20 Six Nations: England U20 V Ireland U20",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220214700 +0000",
+      "stop": "20260220221200 +0000",
+      "title": "Classics: 2008 - Italy V Scotland",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220221200 +0000",
+      "stop": "20260220224200 +0000",
+      "title": "Classics: 2004 - Ireland V Scotland",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260220224200 +0000",
+      "stop": "20260221003200 +0000",
+      "title": "Under-20 Six Nations: Wales U20 V Scotland U20",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221003200 +0000",
+      "stop": "20260221022200 +0000",
+      "title": "Under-20 Six Nations: England U20 V Ireland U20",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221022200 +0000",
+      "stop": "20260221041200 +0000",
+      "title": "Super League: Bradford V Catalans",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221041200 +0000",
+      "stop": "20260221060000 +0000",
+      "title": "Super Rugby: Waratahs V Fijian Drua",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221060000 +0000",
+      "stop": "20260221080200 +0000",
+      "title": "(L) Super Rugby: Highlanders V Chiefs",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221080200 +0000",
+      "stop": "20260221083000 +0000",
+      "title": "Classics: 2011 - Italy V France",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221083000 +0000",
+      "stop": "20260221103200 +0000",
+      "title": "(L) Super Rugby: Force V Blues",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221103200 +0000",
+      "stop": "20260221110200 +0000",
+      "title": "Classics: 2002 - Wales V France",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221110200 +0000",
+      "stop": "20260221111200 +0000",
+      "title": "URC Match Highlights: Glasgow Warriors V Munster",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221111200 +0000",
+      "stop": "20260221121200 +0000",
+      "title": "5 & 6 Nations: Golden Moments",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221121200 +0000",
+      "stop": "20260221140000 +0000",
+      "title": "Super Rugby: Highlanders V Chiefs",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221140000 +0000",
+      "stop": "20260221190200 +0000",
+      "title": "(L) Guinness Six Nations: England V Ireland",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221190200 +0000",
+      "stop": "20260221193200 +0000",
+      "title": "Classics: 2014 - France V Ireland",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221193200 +0000",
+      "stop": "20260221194200 +0000",
+      "title": "URC Match Highlights: Glasgow Warriors V Munster",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221194200 +0000",
+      "stop": "20260221195000 +0000",
+      "title": "URC Match Highlights: Leinster V Edinburgh",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221195000 +0000",
+      "stop": "20260221220200 +0000",
+      "title": "(L) Under-20 Six Nations: France U20 V Italy U20",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221220200 +0000",
+      "stop": "20260221223200 +0000",
+      "title": "Classics: 2005 - Wales V Ireland",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221223200 +0000",
+      "stop": "20260221224200 +0000",
+      "title": "URC Match Highlights: Lions V Bulls",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221224200 +0000",
+      "stop": "20260221225200 +0000",
+      "title": "URC Match Highlights: Sharks V Stormers",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260221225200 +0000",
+      "stop": "20260222004200 +0000",
+      "title": "Super Rugby: Highlanders V Chiefs",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222004200 +0000",
+      "stop": "20260222023000 +0000",
+      "title": "Super Rugby: Force V Blues",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222023000 +0000",
+      "stop": "20260222043200 +0000",
+      "title": "(L) Super Rugby: Crusaders V Brumbies",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222043200 +0000",
+      "stop": "20260222050200 +0000",
+      "title": "Classics: 1999 - Wales V England",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222050200 +0000",
+      "stop": "20260222065200 +0000",
+      "title": "Guinness Six Nations: England V Ireland",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222065200 +0000",
+      "stop": "20260222084200 +0000",
+      "title": "Guinness Six Nations: Wales V Scotland",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222084200 +0000",
+      "stop": "20260222091200 +0000",
+      "title": "Classics: 1986 - England V Ireland",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222091200 +0000",
+      "stop": "20260222110200 +0000",
+      "title": "Super Rugby: Highlanders V Chiefs",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222110200 +0000",
+      "stop": "20260222125200 +0000",
+      "title": "Super Rugby: Force V Blues",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222125200 +0000",
+      "stop": "20260222130200 +0000",
+      "title": "URC Match Highlights: Zebre Parma V Connacht",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222130200 +0000",
+      "stop": "20260222131200 +0000",
+      "title": "URC Match Highlights: Leinster V Edinburgh",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222131200 +0000",
+      "stop": "20260222150000 +0000",
+      "title": "Super Rugby: Crusaders V Brumbies",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222150000 +0000",
+      "stop": "20260222174200 +0000",
+      "title": "(L) Guinness Six Nations: France V Italy",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222174200 +0000",
+      "stop": "20260222193200 +0000",
+      "title": "Guinness Six Nations: England V Ireland",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222193200 +0000",
+      "stop": "20260222212200 +0000",
+      "title": "Guinness Six Nations: Wales V Scotland",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222212200 +0000",
+      "stop": "20260222231200 +0000",
+      "title": "Guinness Six Nations: France V Italy",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222231200 +0000",
+      "stop": "20260222234200 +0000",
+      "title": "Classics: 2011 - England V Scotland",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    },
+    {
+      "start": "20260222234200 +0000",
+      "stop": "20260223013200 +0000",
+      "title": "Super League: Toulouse Olympique V Castleford",
+      "subtitle": "",
+      "description": "",
+      "category": "Academic",
+      "icon": ""
+    }
+  ],
   "LALIGA.TV.BAR.es": [
     {
       "start": "20260218000000 +0000",
@@ -51795,42 +52418,6 @@
   ],
   "sportdigital.Fussball.de": [
     {
-      "start": "20260219003000 +0000",
-      "stop": "20260219005500 +0000",
-      "title": "scooore Australien! Alle Tore",
-      "subtitle": "Highlights A-League (17. Spieltag)",
-      "description": "",
-      "category": "Fußball",
-      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
-    },
-    {
-      "start": "20260219005500 +0000",
-      "stop": "20260219012500 +0000",
-      "title": "scooore Saudi-Arabien! Alle Tore",
-      "subtitle": "Highlights Saudi Pro League (22. Spieltag)",
-      "description": "Das Magazin konzentriert sich auf den Fußball in Saudi-Arabien. Es bietet eine umfassende Berichterstattung über die nationale Liga, wichtige Spiele und Spieler sowie Entwicklungen im saudischen Fußball insgesamt. (Senderinfo).",
-      "category": "Fußball",
-      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
-    },
-    {
-      "start": "20260219012500 +0000",
-      "stop": "20260219015500 +0000",
-      "title": "scooore Argentinien! Alle Tore",
-      "subtitle": "Highlights Liga Profesional Apertura (5. Spieltag)",
-      "description": "Fußball aus der ganzen Welt mit allen Höhepunkten aus den internationalen Top-Ligen. In dieser Ausgebe von \"scooore\" werden die spektakulärsten und wichtigsten Szenen aus der höchsten Argentinischen Fußball-Liga gezeigt. (Senderinfo).",
-      "category": "Fußball",
-      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
-    },
-    {
-      "start": "20260219015500 +0000",
-      "stop": "20260219040000 +0000",
-      "title": "Fußball: AFC Champions League Two",
-      "subtitle": "Al-Nassr (SAR) – FC Arkadag (TUR) (Achtelfinale, Rückspiel)",
-      "description": "Der AFC Cup ist für Asien das, was die UEFA Europa League für Europa ist: der zweithöchste Fußballwettbewerb für die Vereinsmannschaften auf dem Kontinent.  (Senderinfo).",
-      "category": "Fußball",
-      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
-    },
-    {
       "start": "20260219040000 +0000",
       "stop": "20260219060000 +0000",
       "title": "Fußball: Eredivisie",
@@ -52333,6 +52920,123 @@
       "description": "In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).",
       "category": "Fußball",
       "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222043000 +0000",
+      "stop": "20260222063500 +0000",
+      "title": "Eredivisie",
+      "subtitle": "Ajax Amsterdam – NEC Nijmegen (24. Spieltag)",
+      "description": "In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222063500 +0000",
+      "stop": "20260222083500 +0000",
+      "title": "A-League",
+      "subtitle": "Melbourne City – Melbourne Victory (18. Spieltag)",
+      "description": "Der Fußball fristete in Australien lange ein Dasein als Randsportart, erfreut sich aber zunehmender Beliebtheit. In der höchsten Spielklasse spielen neun australische und ein neuseeländischer Club. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222083500 +0000",
+      "stop": "20260222103500 +0000",
+      "title": "Liga Profesional Apertura",
+      "subtitle": "Boca Juniors – Racing Club (6. Spieltag)",
+      "description": "Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222103500 +0000",
+      "stop": "20260222105000 +0000",
+      "title": "Zlatan Ibrahimovic – Top 25",
+      "subtitle": "Eredivisie Top Goals",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222105000 +0000",
+      "stop": "20260222125000 +0000",
+      "title": "Eredivisie",
+      "subtitle": "PSV Eindhoven – SC Heerenveen (24. Spieltag)",
+      "description": "In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222125000 +0000",
+      "stop": "20260222145000 +0000",
+      "title": "Fußball: Eredivisie",
+      "subtitle": "Ajax Amsterdam – NEC Nijmegen (24. Spieltag)",
+      "description": "In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222145000 +0000",
+      "stop": "20260222171000 +0000",
+      "title": "Fußball: Scottish Premiership",
+      "subtitle": "FC Livingston – Glasgow Rangers (28. Spieltag)",
+      "description": "Die Scottish Premiership ist seit 2013 die höchste Fußballliga in Schottland und gehört zur Scottish Professional Football League. 2013 wurde sie als Nachfolger für die Scottish Premier League gegründet.  (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222171000 +0000",
+      "stop": "20260222172500 +0000",
+      "title": "Robin van Persie – Top 25",
+      "subtitle": "Eredivisie Top Goals",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222172500 +0000",
+      "stop": "20260222194500 +0000",
+      "title": "Chance Liga",
+      "subtitle": "Viktoria Pilsen – Sparta Prag (23. Spieltag)",
+      "description": "Die Liga ist nach dem Sponsor Fortuna benannt, Es ist die höchste tschechische Spielklasse im Fußball der Männer. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222194500 +0000",
+      "stop": "20260222202500 +0000",
+      "title": "Football Nation",
+      "subtitle": "UEFA (29)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222202500 +0000",
+      "stop": "20260222224000 +0000",
+      "title": "Fußball: Primeira Liga",
+      "subtitle": "FC Porto – FC Rio Ave (23. Spieltag)",
+      "description": "Willkommen zur höchsten Spielklasse im portugiesischen Männerfußball. Eine Saison erstreckt sich über 34 Spieltage, wobei die Partien von Mitte August bis Ende Mai oder Anfang Juni ausgetragen werden. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222224000 +0000",
+      "stop": "20260222234000 +0000",
+      "title": "Primeira Liga",
+      "subtitle": "Benfica Lissabon – AVS Futebol SAD (23. Spieltag)",
+      "description": "Willkommen zur höchsten Spielklasse im portugiesischen Männerfußball. Eine Saison erstreckt sich über 34 Spieltage, wobei die Partien von Mitte August bis Ende Mai oder Anfang Juni ausgetragen werden. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222234000 +0000",
+      "stop": "20260223001000 +0000",
+      "title": "The Football Review",
+      "subtitle": "19.02.2026",
+      "description": "",
+      "category": "Magazin",
+      "icon": "http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"
     }
   ]
 }
