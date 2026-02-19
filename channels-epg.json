@@ -4880,6 +4880,755 @@
       "icon": "http://dshm.tmsimg.com/assets/p9143182_b_h8_aa.jpg?w=960&h=540"
     }
   ],
+  "Sportsnet.World.HD.ca2": [
+    {
+      "start": "20260219060000 +0000",
+      "stop": "20260219063000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1996: Chelsea vs. Manchester United",
+      "description": "From March 31, 1996.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260219063000 +0000",
+      "stop": "20260219070000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1996: Liverpool vs. Manchester United",
+      "description": "From May 11, 1996.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260219070000 +0000",
+      "stop": "20260219090000 +0000",
+      "title": "FA Women's Super League",
+      "subtitle": "",
+      "description": "From Goodison Park in Liverpool, Merseyside, England.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002TNWLJ.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260219090000 +0000",
+      "stop": "20260219100000 +0000",
+      "title": "Sportsnet World Highlights",
+      "subtitle": "",
+      "description": "A look at the best stories from around the world of sports.",
+      "category": "Anthology",
+      "icon": "http://dshm.tmsimg.com/assets/p17613291_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260219100000 +0000",
+      "stop": "20260219110000 +0000",
+      "title": "Sportsnet World Highlights",
+      "subtitle": "",
+      "description": "A look at the best stories from around the world of sports.",
+      "category": "Anthology",
+      "icon": "http://dshm.tmsimg.com/assets/p17613291_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260219110000 +0000",
+      "stop": "20260219120000 +0000",
+      "title": "Sportsnet World Highlights",
+      "subtitle": "",
+      "description": "A look at the best stories from around the world of sports.",
+      "category": "Anthology",
+      "icon": "http://dshm.tmsimg.com/assets/p17613291_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260219120000 +0000",
+      "stop": "20260219130000 +0000",
+      "title": "Sportsnet World Highlights",
+      "subtitle": "",
+      "description": "A look at the best stories from around the world of sports.",
+      "category": "Anthology",
+      "icon": "http://dshm.tmsimg.com/assets/p17613291_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260219130000 +0000",
+      "stop": "20260219150000 +0000",
+      "title": "FA Cup Soccer",
+      "subtitle": "",
+      "description": "Fourth Round.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002QXN1G.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260219150000 +0000",
+      "stop": "20260219180000 +0000",
+      "title": "By the Books",
+      "subtitle": "",
+      "description": "Host Dave Ross, with the latest betting information to get you set for your day.",
+      "category": "Bus./financial",
+      "icon": "http://dshm.tmsimg.com/assets/p29176427_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260219180000 +0000",
+      "stop": "20260219183000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "Chelsea vs. Liverpool, 4th Round (01/26/97)",
+      "description": "Another vintage batch of footage from the FA Cup.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260219183000 +0000",
+      "stop": "20260219190000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1997: Middlesbrough vs. Chesterfield",
+      "description": "From April 13, 1997.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260219190000 +0000",
+      "stop": "20260219193000 +0000",
+      "title": "FA Cup Highlights",
+      "subtitle": "",
+      "description": "Highlights of the FA Cup Tournament in England.",
+      "category": "Soccer",
+      "icon": "http://dshm.tmsimg.com/assets/p677694_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260219193000 +0000",
+      "stop": "20260219213000 +0000",
+      "title": "Live: Rugby",
+      "subtitle": "World Club Challenge: Hull KR vs Broncos",
+      "description": "All the action from rugby matches.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p886390_b_h8_ap.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260219213000 +0000",
+      "stop": "20260219220000 +0000",
+      "title": "UFC Fight Flashback",
+      "subtitle": "",
+      "description": "UFC Fight Flashback is an enhanced replay of some of the most memorable title fights in UFC history, featuring never-before-seen footage from state-of-the-art cameras, and exclusive new sound.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/p10334043_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260219220000 +0000",
+      "stop": "20260220000000 +0000",
+      "title": "FA Women's Super League",
+      "subtitle": "",
+      "description": "From Joie Stadium in Manchester, England, United Kingdom.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002TP0CE.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220000000 +0000",
+      "stop": "20260220003000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "Chelsea vs. Liverpool, 4th Round (01/26/97)",
+      "description": "Another vintage batch of footage from the FA Cup.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220003000 +0000",
+      "stop": "20260220010000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1997: Middlesbrough vs. Chesterfield",
+      "description": "From April 13, 1997.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220010000 +0000",
+      "stop": "20260220030000 +0000",
+      "title": "FA Cup Soccer",
+      "subtitle": "",
+      "description": "Fourth Round.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002QFTC5.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220030000 +0000",
+      "stop": "20260220040000 +0000",
+      "title": "World's Strongest Man",
+      "subtitle": "",
+      "description": "Athletes compete for the title of world's strongest man.",
+      "category": "Weightlifting",
+      "icon": "http://dshm.tmsimg.com/assets/p23572910_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220040000 +0000",
+      "stop": "20260220060000 +0000",
+      "title": "Rugby",
+      "subtitle": "World Club Challenge: Hull KR vs Broncos",
+      "description": "All the action from rugby matches.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p886390_b_h8_ap.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220060000 +0000",
+      "stop": "20260220063000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "Chelsea vs. Liverpool, 4th Round (01/26/97)",
+      "description": "Another vintage batch of footage from the FA Cup.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220063000 +0000",
+      "stop": "20260220070000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1997: Middlesbrough vs. Chesterfield",
+      "description": "From April 13, 1997.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220070000 +0000",
+      "stop": "20260220090000 +0000",
+      "title": "FA Women's Super League",
+      "subtitle": "",
+      "description": "From Broadfield Stadium in Crawley, West Sussex, England.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002QXNXJ.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220090000 +0000",
+      "stop": "20260220100000 +0000",
+      "title": "Sportsnet World Highlights",
+      "subtitle": "",
+      "description": "A look at the best stories from around the world of sports.",
+      "category": "Anthology",
+      "icon": "http://dshm.tmsimg.com/assets/p17613291_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220100000 +0000",
+      "stop": "20260220110000 +0000",
+      "title": "Sportsnet World Highlights",
+      "subtitle": "",
+      "description": "A look at the best stories from around the world of sports.",
+      "category": "Anthology",
+      "icon": "http://dshm.tmsimg.com/assets/p17613291_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220110000 +0000",
+      "stop": "20260220120000 +0000",
+      "title": "Sportsnet World Highlights",
+      "subtitle": "",
+      "description": "A look at the best stories from around the world of sports.",
+      "category": "Anthology",
+      "icon": "http://dshm.tmsimg.com/assets/p17613291_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220120000 +0000",
+      "stop": "20260220130000 +0000",
+      "title": "Sportsnet World Highlights",
+      "subtitle": "",
+      "description": "A look at the best stories from around the world of sports.",
+      "category": "Anthology",
+      "icon": "http://dshm.tmsimg.com/assets/p17613291_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220130000 +0000",
+      "stop": "20260220150000 +0000",
+      "title": "Rugby",
+      "subtitle": "World Club Challenge: Hull KR vs Broncos",
+      "description": "All the action from rugby matches.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p886390_b_h8_ap.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220150000 +0000",
+      "stop": "20260220180000 +0000",
+      "title": "By the Books",
+      "subtitle": "",
+      "description": "Host Dave Ross, with the latest betting information to get you set for your day.",
+      "category": "Bus./financial",
+      "icon": "http://dshm.tmsimg.com/assets/p29176427_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220180000 +0000",
+      "stop": "20260220183000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "Wimbledon vs Chelsea",
+      "description": "1997 FA Cup.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220183000 +0000",
+      "stop": "20260220190000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1997: Chelsea vs. Middlesbrough",
+      "description": "From May 17, 1997.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220190000 +0000",
+      "stop": "20260220193000 +0000",
+      "title": "UFC Fight Flashback",
+      "subtitle": "",
+      "description": "UFC Fight Flashback is an enhanced replay of some of the most memorable title fights in UFC history, featuring never-before-seen footage from state-of-the-art cameras, and exclusive new sound.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/p10334043_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220193000 +0000",
+      "stop": "20260220200000 +0000",
+      "title": "Live: Super League On Sportsnet",
+      "subtitle": "",
+      "description": "Rugby action from Super League series.",
+      "category": "Rugby",
+      "icon": "http://dshm.tmsimg.com/assets/p18608497_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220200000 +0000",
+      "stop": "20260220220000 +0000",
+      "title": "Live: Rugby Super League",
+      "subtitle": "",
+      "description": "Comprehensive coverage of all the action from the matches played as part of the Rugby Super League.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002WLZRP.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260220220000 +0000",
+      "stop": "20260221000000 +0000",
+      "title": "Rugby Super League",
+      "subtitle": "",
+      "description": "Comprehensive coverage of all the action from the matches played as part of the Rugby Super League.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002WLS8T.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221000000 +0000",
+      "stop": "20260221003000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "Wimbledon vs Chelsea",
+      "description": "1997 FA Cup.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221003000 +0000",
+      "stop": "20260221010000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1997: Chelsea vs. Middlesbrough",
+      "description": "From May 17, 1997.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221010000 +0000",
+      "stop": "20260221030000 +0000",
+      "title": "Rugby Super League",
+      "subtitle": "",
+      "description": "From Headingley Stadium in Leeds, England, United Kingdom.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002WLK76.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221030000 +0000",
+      "stop": "20260221033000 +0000",
+      "title": "UFC Fight Flashback",
+      "subtitle": "",
+      "description": "UFC Fight Flashback is an enhanced replay of some of the most memorable title fights in UFC history, featuring never-before-seen footage from state-of-the-art cameras, and exclusive new sound.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/p10334043_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221033000 +0000",
+      "stop": "20260221040000 +0000",
+      "title": "FA Cup Highlights",
+      "subtitle": "",
+      "description": "Highlights of the FA Cup Tournament in England.",
+      "category": "Soccer",
+      "icon": "http://dshm.tmsimg.com/assets/p677694_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221040000 +0000",
+      "stop": "20260221060000 +0000",
+      "title": "Rugby Super League",
+      "subtitle": "",
+      "description": "Comprehensive coverage of all the action from the matches played as part of the Rugby Super League.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002WLZRP.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221060000 +0000",
+      "stop": "20260221063000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "Wimbledon vs Chelsea",
+      "description": "1997 FA Cup.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221063000 +0000",
+      "stop": "20260221070000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1997: Chelsea vs. Middlesbrough",
+      "description": "From May 17, 1997.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221070000 +0000",
+      "stop": "20260221090000 +0000",
+      "title": "Rugby Super League",
+      "subtitle": "",
+      "description": "From Headingley Stadium in Leeds, England, United Kingdom.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002WLK76.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221090000 +0000",
+      "stop": "20260221100000 +0000",
+      "title": "Sportsnet World Highlights",
+      "subtitle": "",
+      "description": "A look at the best stories from around the world of sports.",
+      "category": "Anthology",
+      "icon": "http://dshm.tmsimg.com/assets/p17613291_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221100000 +0000",
+      "stop": "20260221110000 +0000",
+      "title": "Sportsnet World Highlights",
+      "subtitle": "",
+      "description": "A look at the best stories from around the world of sports.",
+      "category": "Anthology",
+      "icon": "http://dshm.tmsimg.com/assets/p17613291_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221110000 +0000",
+      "stop": "20260221120000 +0000",
+      "title": "Sportsnet World Highlights",
+      "subtitle": "",
+      "description": "A look at the best stories from around the world of sports.",
+      "category": "Anthology",
+      "icon": "http://dshm.tmsimg.com/assets/p17613291_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221120000 +0000",
+      "stop": "20260221140000 +0000",
+      "title": "Live: United Rugby Championship",
+      "subtitle": "",
+      "description": "From Hollywoodbets Kings Park in Durban, UNKNOWN [ZA], South Africa.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002W2R5Y.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221140000 +0000",
+      "stop": "20260221143000 +0000",
+      "title": "FA Cup Highlights",
+      "subtitle": "",
+      "description": "Highlights of the FA Cup Tournament in England.",
+      "category": "Soccer",
+      "icon": "http://dshm.tmsimg.com/assets/p677694_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221143000 +0000",
+      "stop": "20260221150000 +0000",
+      "title": "FIA World Rally-Raid Championship",
+      "subtitle": "Dubai International Baja",
+      "description": "The World Rally-Raid Championship is a rally raid series co-sanctioned by the FIA and FIM and promoted by the Amaury Sport Organisation. The championship's seasons culminate with world championship titles in both automobile and motorcycle categories.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p23651550_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221150000 +0000",
+      "stop": "20260221170000 +0000",
+      "title": "Rugby Super League",
+      "subtitle": "",
+      "description": "From Headingley Stadium in Leeds, England, United Kingdom.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002WLK76.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221170000 +0000",
+      "stop": "20260221173000 +0000",
+      "title": "Mass Participation",
+      "subtitle": "MDS 120 Morocco",
+      "description": "A sports related entertainment show.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p29457346_b_h8_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221173000 +0000",
+      "stop": "20260221193000 +0000",
+      "title": "Live: Eredivisie Soccer",
+      "subtitle": "",
+      "description": "From Philips Stadium in Eindhoven, Noord-Brabant, Netherlands.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002Y4Y09.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221193000 +0000",
+      "stop": "20260221200000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1996: Liverpool vs. Manchester United",
+      "description": "From May 11, 1996.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221200000 +0000",
+      "stop": "20260221220000 +0000",
+      "title": "Live: Eredivisie Soccer",
+      "subtitle": "",
+      "description": "From Johan Cruijff Arena in Amsterdam.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002Y58TD.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260221220000 +0000",
+      "stop": "20260222000000 +0000",
+      "title": "Rugby Super League",
+      "subtitle": "",
+      "description": "From Ernest-Wallon Stadium in Toulouse, Haute-Garonne, France.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002WLZ8J.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222000000 +0000",
+      "stop": "20260222003000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "Chelsea vs Manchester United",
+      "description": "2007 FA Cup.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222003000 +0000",
+      "stop": "20260222010000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1998: Barnsley vs. Manchester United",
+      "description": "From Feb. 25, 1998.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222010000 +0000",
+      "stop": "20260222030000 +0000",
+      "title": "Rugby Super League",
+      "subtitle": "",
+      "description": "Comprehensive coverage of all the action from the matches played as part of the Rugby Super League.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002WLWS5.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222030000 +0000",
+      "stop": "20260222033000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1996: Chelsea vs. Manchester United",
+      "description": "From March 31, 1996.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222033000 +0000",
+      "stop": "20260222040000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1996: Liverpool vs. Manchester United",
+      "description": "From May 11, 1996.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222040000 +0000",
+      "stop": "20260222060000 +0000",
+      "title": "Eredivisie Soccer",
+      "subtitle": "",
+      "description": "From Philips Stadium in Eindhoven, Noord-Brabant, Netherlands.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002Y4Y09.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222060000 +0000",
+      "stop": "20260222063000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "Chelsea vs Manchester United",
+      "description": "2007 FA Cup.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222063000 +0000",
+      "stop": "20260222070000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1998: Barnsley vs. Manchester United",
+      "description": "From Feb. 25, 1998.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222070000 +0000",
+      "stop": "20260222090000 +0000",
+      "title": "Rugby Super League",
+      "subtitle": "",
+      "description": "From Ernest-Wallon Stadium in Toulouse, Haute-Garonne, France.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002WLZ8J.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222090000 +0000",
+      "stop": "20260222100000 +0000",
+      "title": "Sportsnet World Highlights",
+      "subtitle": "",
+      "description": "A look at the best stories from around the world of sports.",
+      "category": "Anthology",
+      "icon": "http://dshm.tmsimg.com/assets/p17613291_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222100000 +0000",
+      "stop": "20260222110000 +0000",
+      "title": "Sportsnet World Highlights",
+      "subtitle": "",
+      "description": "A look at the best stories from around the world of sports.",
+      "category": "Anthology",
+      "icon": "http://dshm.tmsimg.com/assets/p17613291_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222110000 +0000",
+      "stop": "20260222120000 +0000",
+      "title": "Sportsnet World Highlights",
+      "subtitle": "",
+      "description": "A look at the best stories from around the world of sports.",
+      "category": "Anthology",
+      "icon": "http://dshm.tmsimg.com/assets/p17613291_b_h8_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222120000 +0000",
+      "stop": "20260222130000 +0000",
+      "title": "UCI WorldTour Cycling",
+      "subtitle": "",
+      "description": "Coverage and highlights from the latest round of the cycling World Tour.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/p9085250_b_h8_ag.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222130000 +0000",
+      "stop": "20260222150000 +0000",
+      "title": "Rugby Super League",
+      "subtitle": "",
+      "description": "Comprehensive coverage of all the action from the matches played as part of the Rugby Super League.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002WLWS5.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222150000 +0000",
+      "stop": "20260222153000 +0000",
+      "title": "FIA World Rally-Raid Championship",
+      "subtitle": "Dubai International Baja",
+      "description": "The World Rally-Raid Championship is a rally raid series co-sanctioned by the FIA and FIM and promoted by the Amaury Sport Organisation. The championship's seasons culminate with world championship titles in both automobile and motorcycle categories.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p23651550_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222153000 +0000",
+      "stop": "20260222173000 +0000",
+      "title": "Live: Eredivisie Soccer",
+      "subtitle": "",
+      "description": "From AFAS Stadium in Alkmaar, North Holland, Netherlands.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002Y4RSV.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222173000 +0000",
+      "stop": "20260222180000 +0000",
+      "title": "UFC Fight Flashback",
+      "subtitle": "",
+      "description": "UFC Fight Flashback is an enhanced replay of some of the most memorable title fights in UFC history, featuring never-before-seen footage from state-of-the-art cameras, and exclusive new sound.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/p10334043_b_h8_af.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222180000 +0000",
+      "stop": "20260222190000 +0000",
+      "title": "World's Strongest Man",
+      "subtitle": "",
+      "description": "Athletes compete for the title of world's strongest man.",
+      "category": "Weightlifting",
+      "icon": "http://dshm.tmsimg.com/assets/p23572910_b_h10_aa.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222190000 +0000",
+      "stop": "20260222210000 +0000",
+      "title": "Live: Eredivisie Soccer",
+      "subtitle": "",
+      "description": "From Feijenoord Stadium in Rotterdam, South Holland, Netherlands.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002YDFHC.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222210000 +0000",
+      "stop": "20260222220000 +0000",
+      "title": "The World's Strongest Man",
+      "subtitle": "Europe's Strongest Man",
+      "description": "Competitors from around the world take part in a variety of strength challenges.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p512649_b_h10_ad.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260222220000 +0000",
+      "stop": "20260223000000 +0000",
+      "title": "United Rugby Championship",
+      "subtitle": "",
+      "description": "From Hollywoodbets Kings Park in Durban, UNKNOWN [ZA], South Africa.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002W2R5Y.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260223000000 +0000",
+      "stop": "20260223003000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1998: Arsenal vs. Newcastle United",
+      "description": "From May 17, 1998.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260223003000 +0000",
+      "stop": "20260223010000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1999: Preston North End vs. Arsenal",
+      "description": "From April 1, 1999.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260223010000 +0000",
+      "stop": "20260223030000 +0000",
+      "title": "Rugby Super League",
+      "subtitle": "",
+      "description": "From Accu Stadium in Huddersfield, England, United Kingdom.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002WLX6E.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260223030000 +0000",
+      "stop": "20260223033000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "Chelsea vs. Liverpool, 4th Round (01/26/97)",
+      "description": "Another vintage batch of footage from the FA Cup.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260223033000 +0000",
+      "stop": "20260223040000 +0000",
+      "title": "FA Cup Classics",
+      "subtitle": "1997: Middlesbrough vs. Chesterfield",
+      "description": "From April 13, 1997.",
+      "category": "Series",
+      "icon": "http://dshm.tmsimg.com/assets/p677691_b_h10_ab.jpg?w=960&h=540"
+    },
+    {
+      "start": "20260223040000 +0000",
+      "stop": "20260223060000 +0000",
+      "title": "Eredivisie Soccer",
+      "subtitle": "",
+      "description": "From AFAS Stadium in Alkmaar, North Holland, Netherlands.",
+      "category": "Sports",
+      "icon": "http://dshm.tmsimg.com/assets/GNLZZGG002Y4RSV.jpg?w=960&h=540"
+    }
+  ],
   "Sportsnet.East.HD.ca2": [
     {
       "start": "20260219060000 +0000",
