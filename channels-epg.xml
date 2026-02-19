@@ -60873,4 +60873,519 @@
     <category lang="nl">Samenvatting</category>
     <icon src="https://tvgidsassets.nl/v372/upload/n/carrousel/nascar-xfinity-series-hoogtepunten-688714582.jpg" />
   </programme>
-</tv>
+<channel id="sportdigital.Fussball.de">
+    <display-name lang="de">sportdigital Fussball</display-name>
+    <url>http://www.tvtoday.de</url>
+  </channel>
+  <programme start="20260219003000 +0000" stop="20260219005500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Australien! Alle Tore</title>
+    <sub-title lang="de">Highlights A-League (17. Spieltag)</sub-title>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20260219005500 +0000" stop="20260219012500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Saudi-Arabien! Alle Tore</title>
+    <sub-title lang="de">Highlights Saudi Pro League (22. Spieltag)</sub-title>
+    <desc lang="de">Das Magazin konzentriert sich auf den Fußball in Saudi-Arabien. Es bietet eine umfassende Berichterstattung über die nationale Liga, wichtige Spiele und Spieler sowie Entwicklungen im saudischen Fußball insgesamt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260219012500 +0000" stop="20260219015500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Argentinien! Alle Tore</title>
+    <sub-title lang="de">Highlights Liga Profesional Apertura (5. Spieltag)</sub-title>
+    <desc lang="de">Fußball aus der ganzen Welt mit allen Höhepunkten aus den internationalen Top-Ligen. In dieser Ausgebe von "scooore" werden die spektakulärsten und wichtigsten Szenen aus der höchsten Argentinischen Fußball-Liga gezeigt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260219015500 +0000" stop="20260219040000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: AFC Champions League Two</title>
+    <sub-title lang="de">Al-Nassr (SAR) – FC Arkadag (TUR) (Achtelfinale, Rückspiel)</sub-title>
+    <desc lang="de">Der AFC Cup ist für Asien das, was die UEFA Europa League für Europa ist: der zweithöchste Fußballwettbewerb für die Vereinsmannschaften auf dem Kontinent.  (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20260219040000 +0000" stop="20260219060000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Eredivisie</title>
+    <sub-title lang="de">Ajax Amsterdam – Fortuna Sittard (23. Spieltag)</sub-title>
+    <desc lang="de">In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20260219060000 +0000" stop="20260219080000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Eredivisie</title>
+    <sub-title lang="de">Feyenoord Rotterdam – Go Ahead Eagles (23. Spieltag)</sub-title>
+    <desc lang="de">In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20260219080000 +0000" stop="20260219082500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Australien! Alle Tore</title>
+    <sub-title lang="de">Highlights A-League (17. Spieltag)</sub-title>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20260219082500 +0000" stop="20260219085500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Saudi-Arabien! Alle Tore</title>
+    <sub-title lang="de">Highlights Saudi Pro League (22. Spieltag)</sub-title>
+    <desc lang="de">Das Magazin konzentriert sich auf den Fußball in Saudi-Arabien. Es bietet eine umfassende Berichterstattung über die nationale Liga, wichtige Spiele und Spieler sowie Entwicklungen im saudischen Fußball insgesamt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260219085500 +0000" stop="20260219092500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Argentinien! Alle Tore</title>
+    <sub-title lang="de">Highlights Liga Profesional Apertura (5. Spieltag)</sub-title>
+    <desc lang="de">Fußball aus der ganzen Welt mit allen Höhepunkten aus den internationalen Top-Ligen. In dieser Ausgebe von "scooore" werden die spektakulärsten und wichtigsten Szenen aus der höchsten Argentinischen Fußball-Liga gezeigt. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260219092500 +0000" stop="20260219113000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: AFC Champions League Two</title>
+    <sub-title lang="de">Al-Nassr (SAR) – FC Arkadag (TUR) (Achtelfinale, Rückspiel)</sub-title>
+    <desc lang="de">Der AFC Cup ist für Asien das, was die UEFA Europa League für Europa ist: der zweithöchste Fußballwettbewerb für die Vereinsmannschaften auf dem Kontinent.  (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20260219113000 +0000" stop="20260219133000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Eredivisie</title>
+    <sub-title lang="de">Ajax Amsterdam – Fortuna Sittard (23. Spieltag)</sub-title>
+    <desc lang="de">In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20260219133000 +0000" stop="20260219153000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Liga Profesional</title>
+    <sub-title lang="de">Boca Juniors – CA Platense (5. Spieltag)</sub-title>
+    <desc lang="de">Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">Argent.</country>
+  </programme>
+  <programme start="20260219153000 +0000" stop="20260219173000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Primeira Liga</title>
+    <sub-title lang="de">Sporting Lissabon – FC Famalicao (22. Spieltag)</sub-title>
+    <desc lang="de">Willkommen zur höchsten Spielklasse im portugiesischen Männerfußball. Eine Saison erstreckt sich über 34 Spieltage, wobei die Partien von Mitte August bis Ende Mai oder Anfang Juni ausgetragen werden. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">P</country>
+  </programme>
+  <programme start="20260219173000 +0000" stop="20260219175500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">The Football Review</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260219175500 +0000" stop="20260219182500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Football Nation</title>
+    <sub-title lang="de">UEFA (29)</sub-title>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">F</country>
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20260219182500 +0000" stop="20260219185500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Niederlande! Alle Tore</title>
+    <sub-title lang="de">Highlights Eredivisie (23. Spieltag)</sub-title>
+    <desc lang="de">Vorhang auf für das Oberhaus des niederländischen Fußballs: Die Eredivisie hat auch hierzulande viele Fans. Deshalb zeigt sportdigital die Highlights der aktuellen Spieltage als Erstausstrahlung. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260219185500 +0000" stop="20260219211500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Saudi Pro League</title>
+    <sub-title lang="de">Al-Ahli – Al-Najma (23. Spieltag)</sub-title>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">Saudi-Arab.</country>
+  </programme>
+  <programme start="20260219211500 +0000" stop="20260219214500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Portugal! Alle Tore</title>
+    <sub-title lang="de">Highlights Primeira Liga (22. Spieltag)</sub-title>
+    <desc lang="de">Die Sendung informiert über die Highlights und alle Tore in den aktuellen Spielen im portugiesischen Fußball. Die Erste Liga bietet unterhaltsame Spiele auf allerhöchstem Niveau. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260219214500 +0000" stop="20260219223000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Scooore! – Internationales Fußball-Magazin</title>
+    <sub-title lang="de">Tore und Ergebnisse international</sub-title>
+    <desc lang="de">Gezeigt werden Szenen aus der Eredivisie (Niederlande), Liga NOS (Portugal), Hyundai A-League (Australien), J. League (Japan) sowie die Copa Libertadores, Copa Sudamericana und Copa do Brasil. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260219223000 +0000" stop="20260220003000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Liga Profesional</title>
+    <sub-title lang="de">Boca Juniors – CA Platense (5. Spieltag)</sub-title>
+    <desc lang="de">Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">Argent.</country>
+  </programme>
+  <programme start="20260220003000 +0000" stop="20260220023000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Primeira Liga</title>
+    <sub-title lang="de">Sporting Lissabon – FC Famalicao (22. Spieltag)</sub-title>
+    <desc lang="de">Willkommen zur höchsten Spielklasse im portugiesischen Männerfußball. Eine Saison erstreckt sich über 34 Spieltage, wobei die Partien von Mitte August bis Ende Mai oder Anfang Juni ausgetragen werden. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">P</country>
+  </programme>
+  <programme start="20260220023000 +0000" stop="20260220025500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">The Football Review</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260220025500 +0000" stop="20260220032500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Football Nation</title>
+    <sub-title lang="de">UEFA (29)</sub-title>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">F</country>
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20260220032500 +0000" stop="20260220053000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Saudi Pro League</title>
+    <sub-title lang="de">Al-Ahli – Al-Najma (23. Spieltag)</sub-title>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">Saudi-Arab.</country>
+  </programme>
+  <programme start="20260220053000 +0000" stop="20260220060000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Portugal! Alle Tore</title>
+    <sub-title lang="de">Highlights Primeira Liga (22. Spieltag)</sub-title>
+    <desc lang="de">Die Sendung informiert über die Highlights und alle Tore in den aktuellen Spielen im portugiesischen Fußball. Die Erste Liga bietet unterhaltsame Spiele auf allerhöchstem Niveau. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260220060000 +0000" stop="20260220080000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Liga Profesional</title>
+    <sub-title lang="de">Boca Juniors – CA Platense (5. Spieltag)</sub-title>
+    <desc lang="de">Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">Argent.</country>
+  </programme>
+  <programme start="20260220080000 +0000" stop="20260220100000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Primeira Liga</title>
+    <sub-title lang="de">Sporting Lissabon – FC Famalicao (22. Spieltag)</sub-title>
+    <desc lang="de">Willkommen zur höchsten Spielklasse im portugiesischen Männerfußball. Eine Saison erstreckt sich über 34 Spieltage, wobei die Partien von Mitte August bis Ende Mai oder Anfang Juni ausgetragen werden. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">P</country>
+  </programme>
+  <programme start="20260220100000 +0000" stop="20260220102500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">The Football Review</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260220102500 +0000" stop="20260220105500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Football Nation</title>
+    <sub-title lang="de">UEFA (29)</sub-title>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">F</country>
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20260220105500 +0000" stop="20260220130000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Saudi Pro League</title>
+    <sub-title lang="de">Al-Ahli – Al-Najma (23. Spieltag)</sub-title>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">Saudi-Arab.</country>
+  </programme>
+  <programme start="20260220130000 +0000" stop="20260220133000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">scooore Portugal! Alle Tore</title>
+    <sub-title lang="de">Highlights Primeira Liga (22. Spieltag)</sub-title>
+    <desc lang="de">Die Sendung informiert über die Highlights und alle Tore in den aktuellen Spielen im portugiesischen Fußball. Die Erste Liga bietet unterhaltsame Spiele auf allerhöchstem Niveau. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260220133000 +0000" stop="20260220153000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: AFC Champions League Two</title>
+    <sub-title lang="de">Al-Nassr (SAR) – FC Arkadag (TUR) (Achtelfinale, Rückspiel)</sub-title>
+    <desc lang="de">Der AFC Cup ist für Asien das, was die UEFA Europa League für Europa ist: der zweithöchste Fußballwettbewerb für die Vereinsmannschaften auf dem Kontinent.  (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20260220153000 +0000" stop="20260220173000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Scottish Premiership</title>
+    <sub-title lang="de">FC Kilmarnock – Celtic Glasgow (27. Spieltag)</sub-title>
+    <desc lang="de">Die Scottish Premiership ist seit 2013 die höchste Fußballliga in Schottland und gehört zur Scottish Professional Football League. 2013 wurde sie als Nachfolger für die Scottish Premier League gegründet.  (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+  </programme>
+  <programme start="20260220173000 +0000" stop="20260220193000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Eredivisie</title>
+    <sub-title lang="de">Feyenoord Rotterdam – Go Ahead Eagles (23. Spieltag)</sub-title>
+    <desc lang="de">In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20260220193000 +0000" stop="20260220214500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: FA-Cup</title>
+    <sub-title lang="de">Salford City – Manchester City (4. Runde)</sub-title>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260220214500 +0000" stop="20260220220000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Zlatan Ibrahimovic – Top 25</title>
+    <sub-title lang="de">Eredivisie Top Goals</sub-title>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20260220220000 +0000" stop="20260220223000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">The Football Review</title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260220223000 +0000" stop="20260220225500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Football Nation</title>
+    <sub-title lang="de">UEFA (29)</sub-title>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">F</country>
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20260220225500 +0000" stop="20260221011500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Liga Profesional Apertura</title>
+    <sub-title lang="de">Boca Juniors – Racing Club (6. Spieltag)</sub-title>
+    <desc lang="de">Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">Argent.</country>
+  </programme>
+  <programme start="20260221011500 +0000" stop="20260221031500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Eredivisie</title>
+    <sub-title lang="de">Feyenoord Rotterdam – Go Ahead Eagles (23. Spieltag)</sub-title>
+    <desc lang="de">In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20260221031500 +0000" stop="20260221034500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">The Football Review</title>
+    <sub-title lang="de">19.02.2026</sub-title>
+    <date>2026</date>
+    <category lang="de">Magazin</category>
+    <icon src="http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260221034500 +0000" stop="20260221041000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Football Nation</title>
+    <sub-title lang="de">UEFA (29)</sub-title>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">F</country>
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20260221041000 +0000" stop="20260221061500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Liga Profesional Apertura</title>
+    <sub-title lang="de">Boca Juniors – Racing Club (6. Spieltag)</sub-title>
+    <desc lang="de">Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">Argent.</country>
+  </programme>
+  <programme start="20260221061500 +0000" stop="20260221081500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Eredivisie</title>
+    <sub-title lang="de">Feyenoord Rotterdam – Go Ahead Eagles (23. Spieltag)</sub-title>
+    <desc lang="de">In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20260221081500 +0000" stop="20260221083000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Ruud van Nistelrooy – Top 25</title>
+    <sub-title lang="de">Eredivisie Top Goals</sub-title>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20260221083000 +0000" stop="20260221105000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">A-League</title>
+    <sub-title lang="de">Melbourne City – Melbourne Victory (18. Spieltag)</sub-title>
+    <desc lang="de">Der Fußball fristete in Australien lange ein Dasein als Randsportart, erfreut sich aber zunehmender Beliebtheit. In der höchsten Spielklasse spielen neun australische und ein neuseeländischer Club. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20260221105000 +0000" stop="20260221114000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Scooore! – Internationales Fußball-Magazin</title>
+    <sub-title lang="de">Tore und Ergebnisse international</sub-title>
+    <desc lang="de">Gezeigt werden Szenen aus der Eredivisie (Niederlande), Liga NOS (Portugal), Hyundai A-League (Australien), J. League (Japan) sowie die Copa Libertadores, Copa Sudamericana und Copa do Brasil. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">D</country>
+  </programme>
+  <programme start="20260221114000 +0000" stop="20260221121000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">90in30</title>
+    <sub-title lang="de">Afrika-Cup: Senegal – Marokko (Finale)</sub-title>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">Marok.</country>
+  </programme>
+  <programme start="20260221121000 +0000" stop="20260221124000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Scottish Premiership</title>
+    <sub-title lang="de">90in30: Glasgow Rangers – Heart of Midlothian (27. Spieltag)</sub-title>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260221124000 +0000" stop="20260221144000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: FA-Cup</title>
+    <sub-title lang="de">Liverpool FC – Brighton &amp; Hove Albion (4. Runde)</sub-title>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">GB</country>
+  </programme>
+  <programme start="20260221144000 +0000" stop="20260221164000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Liga Profesional Apertura</title>
+    <sub-title lang="de">Boca Juniors – Racing Club (6. Spieltag)</sub-title>
+    <desc lang="de">Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">Argent.</country>
+  </programme>
+  <programme start="20260221164000 +0000" stop="20260221165500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Luis Suarez – Top 25</title>
+    <sub-title lang="de">Eredivisie Top Goals</sub-title>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20260221165500 +0000" stop="20260221171000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Zlatan Ibrahimovic – Top 25</title>
+    <sub-title lang="de">Eredivisie Top Goals</sub-title>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20260221171000 +0000" stop="20260221173500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Football Nation</title>
+    <sub-title lang="de">UEFA (29)</sub-title>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">GB</country>
+    <episode-num system="onscreen">E29</episode-num>
+  </programme>
+  <programme start="20260221173500 +0000" stop="20260221195500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Fußball: Eredivisie</title>
+    <sub-title lang="de">PSV Eindhoven – SC Heerenveen (24. Spieltag)</sub-title>
+    <desc lang="de">In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20260221195500 +0000" stop="20260221221500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Eredivisie</title>
+    <sub-title lang="de">Ajax Amsterdam – NEC Nijmegen (24. Spieltag)</sub-title>
+    <desc lang="de">In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20260221221500 +0000" stop="20260222001500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">A-League</title>
+    <sub-title lang="de">Melbourne City – Melbourne Victory (18. Spieltag)</sub-title>
+    <desc lang="de">Der Fußball fristete in Australien lange ein Dasein als Randsportart, erfreut sich aber zunehmender Beliebtheit. In der höchsten Spielklasse spielen neun australische und ein neuseeländischer Club. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">AUS</country>
+  </programme>
+  <programme start="20260222001500 +0000" stop="20260222021500 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Liga Profesional Apertura</title>
+    <sub-title lang="de">Boca Juniors – Racing Club (6. Spieltag)</sub-title>
+    <desc lang="de">Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).</desc>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">Argent.</country>
+  </programme>
+  <programme start="20260222021500 +0000" stop="20260222023000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Zlatan Ibrahimovic – Top 25</title>
+    <sub-title lang="de">Eredivisie Top Goals</sub-title>
+    <date>2026</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  <programme start="20260222023000 +0000" stop="20260222043000 +0000" channel="sportdigital.Fussball.de">
+    <title lang="de">Eredivisie</title>
+    <sub-title lang="de">PSV Eindhoven – SC Heerenveen (24. Spieltag)</sub-title>
+    <desc lang="de">In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).</desc>
+    <date>2025</date>
+    <category lang="de">Fußball</category>
+    <icon src="http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg" />
+    <country lang="de">NL</country>
+  </programme>
+  </tv>

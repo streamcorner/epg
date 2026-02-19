@@ -43436,5 +43436,547 @@
       "category": "Sport",
       "icon": "https://tvgidsassets.nl/v372/upload/n/carrousel/nascar-xfinity-series-hoogtepunten-688714582.jpg"
     }
+  ],
+  "sportdigital.Fussball.de": [
+    {
+      "start": "20260219003000 +0000",
+      "stop": "20260219005500 +0000",
+      "title": "scooore Australien! Alle Tore",
+      "subtitle": "Highlights A-League (17. Spieltag)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219005500 +0000",
+      "stop": "20260219012500 +0000",
+      "title": "scooore Saudi-Arabien! Alle Tore",
+      "subtitle": "Highlights Saudi Pro League (22. Spieltag)",
+      "description": "Das Magazin konzentriert sich auf den Fußball in Saudi-Arabien. Es bietet eine umfassende Berichterstattung über die nationale Liga, wichtige Spiele und Spieler sowie Entwicklungen im saudischen Fußball insgesamt. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219012500 +0000",
+      "stop": "20260219015500 +0000",
+      "title": "scooore Argentinien! Alle Tore",
+      "subtitle": "Highlights Liga Profesional Apertura (5. Spieltag)",
+      "description": "Fußball aus der ganzen Welt mit allen Höhepunkten aus den internationalen Top-Ligen. In dieser Ausgebe von \"scooore\" werden die spektakulärsten und wichtigsten Szenen aus der höchsten Argentinischen Fußball-Liga gezeigt. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219015500 +0000",
+      "stop": "20260219040000 +0000",
+      "title": "Fußball: AFC Champions League Two",
+      "subtitle": "Al-Nassr (SAR) – FC Arkadag (TUR) (Achtelfinale, Rückspiel)",
+      "description": "Der AFC Cup ist für Asien das, was die UEFA Europa League für Europa ist: der zweithöchste Fußballwettbewerb für die Vereinsmannschaften auf dem Kontinent.  (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219040000 +0000",
+      "stop": "20260219060000 +0000",
+      "title": "Fußball: Eredivisie",
+      "subtitle": "Ajax Amsterdam – Fortuna Sittard (23. Spieltag)",
+      "description": "In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219060000 +0000",
+      "stop": "20260219080000 +0000",
+      "title": "Eredivisie",
+      "subtitle": "Feyenoord Rotterdam – Go Ahead Eagles (23. Spieltag)",
+      "description": "In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219080000 +0000",
+      "stop": "20260219082500 +0000",
+      "title": "scooore Australien! Alle Tore",
+      "subtitle": "Highlights A-League (17. Spieltag)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219082500 +0000",
+      "stop": "20260219085500 +0000",
+      "title": "scooore Saudi-Arabien! Alle Tore",
+      "subtitle": "Highlights Saudi Pro League (22. Spieltag)",
+      "description": "Das Magazin konzentriert sich auf den Fußball in Saudi-Arabien. Es bietet eine umfassende Berichterstattung über die nationale Liga, wichtige Spiele und Spieler sowie Entwicklungen im saudischen Fußball insgesamt. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219085500 +0000",
+      "stop": "20260219092500 +0000",
+      "title": "scooore Argentinien! Alle Tore",
+      "subtitle": "Highlights Liga Profesional Apertura (5. Spieltag)",
+      "description": "Fußball aus der ganzen Welt mit allen Höhepunkten aus den internationalen Top-Ligen. In dieser Ausgebe von \"scooore\" werden die spektakulärsten und wichtigsten Szenen aus der höchsten Argentinischen Fußball-Liga gezeigt. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219092500 +0000",
+      "stop": "20260219113000 +0000",
+      "title": "Fußball: AFC Champions League Two",
+      "subtitle": "Al-Nassr (SAR) – FC Arkadag (TUR) (Achtelfinale, Rückspiel)",
+      "description": "Der AFC Cup ist für Asien das, was die UEFA Europa League für Europa ist: der zweithöchste Fußballwettbewerb für die Vereinsmannschaften auf dem Kontinent.  (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219113000 +0000",
+      "stop": "20260219133000 +0000",
+      "title": "Fußball: Eredivisie",
+      "subtitle": "Ajax Amsterdam – Fortuna Sittard (23. Spieltag)",
+      "description": "In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219133000 +0000",
+      "stop": "20260219153000 +0000",
+      "title": "Fußball: Liga Profesional",
+      "subtitle": "Boca Juniors – CA Platense (5. Spieltag)",
+      "description": "Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219153000 +0000",
+      "stop": "20260219173000 +0000",
+      "title": "Fußball: Primeira Liga",
+      "subtitle": "Sporting Lissabon – FC Famalicao (22. Spieltag)",
+      "description": "Willkommen zur höchsten Spielklasse im portugiesischen Männerfußball. Eine Saison erstreckt sich über 34 Spieltage, wobei die Partien von Mitte August bis Ende Mai oder Anfang Juni ausgetragen werden. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219173000 +0000",
+      "stop": "20260219175500 +0000",
+      "title": "The Football Review",
+      "subtitle": "",
+      "description": "",
+      "category": "Magazin",
+      "icon": "http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"
+    },
+    {
+      "start": "20260219175500 +0000",
+      "stop": "20260219182500 +0000",
+      "title": "Football Nation",
+      "subtitle": "UEFA (29)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219182500 +0000",
+      "stop": "20260219185500 +0000",
+      "title": "scooore Niederlande! Alle Tore",
+      "subtitle": "Highlights Eredivisie (23. Spieltag)",
+      "description": "Vorhang auf für das Oberhaus des niederländischen Fußballs: Die Eredivisie hat auch hierzulande viele Fans. Deshalb zeigt sportdigital die Highlights der aktuellen Spieltage als Erstausstrahlung. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219185500 +0000",
+      "stop": "20260219211500 +0000",
+      "title": "Saudi Pro League",
+      "subtitle": "Al-Ahli – Al-Najma (23. Spieltag)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219211500 +0000",
+      "stop": "20260219214500 +0000",
+      "title": "scooore Portugal! Alle Tore",
+      "subtitle": "Highlights Primeira Liga (22. Spieltag)",
+      "description": "Die Sendung informiert über die Highlights und alle Tore in den aktuellen Spielen im portugiesischen Fußball. Die Erste Liga bietet unterhaltsame Spiele auf allerhöchstem Niveau. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219214500 +0000",
+      "stop": "20260219223000 +0000",
+      "title": "Scooore! – Internationales Fußball-Magazin",
+      "subtitle": "Tore und Ergebnisse international",
+      "description": "Gezeigt werden Szenen aus der Eredivisie (Niederlande), Liga NOS (Portugal), Hyundai A-League (Australien), J. League (Japan) sowie die Copa Libertadores, Copa Sudamericana und Copa do Brasil. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260219223000 +0000",
+      "stop": "20260220003000 +0000",
+      "title": "Fußball: Liga Profesional",
+      "subtitle": "Boca Juniors – CA Platense (5. Spieltag)",
+      "description": "Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220003000 +0000",
+      "stop": "20260220023000 +0000",
+      "title": "Fußball: Primeira Liga",
+      "subtitle": "Sporting Lissabon – FC Famalicao (22. Spieltag)",
+      "description": "Willkommen zur höchsten Spielklasse im portugiesischen Männerfußball. Eine Saison erstreckt sich über 34 Spieltage, wobei die Partien von Mitte August bis Ende Mai oder Anfang Juni ausgetragen werden. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220023000 +0000",
+      "stop": "20260220025500 +0000",
+      "title": "The Football Review",
+      "subtitle": "",
+      "description": "",
+      "category": "Magazin",
+      "icon": "http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"
+    },
+    {
+      "start": "20260220025500 +0000",
+      "stop": "20260220032500 +0000",
+      "title": "Football Nation",
+      "subtitle": "UEFA (29)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220032500 +0000",
+      "stop": "20260220053000 +0000",
+      "title": "Saudi Pro League",
+      "subtitle": "Al-Ahli – Al-Najma (23. Spieltag)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220053000 +0000",
+      "stop": "20260220060000 +0000",
+      "title": "scooore Portugal! Alle Tore",
+      "subtitle": "Highlights Primeira Liga (22. Spieltag)",
+      "description": "Die Sendung informiert über die Highlights und alle Tore in den aktuellen Spielen im portugiesischen Fußball. Die Erste Liga bietet unterhaltsame Spiele auf allerhöchstem Niveau. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220060000 +0000",
+      "stop": "20260220080000 +0000",
+      "title": "Fußball: Liga Profesional",
+      "subtitle": "Boca Juniors – CA Platense (5. Spieltag)",
+      "description": "Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220080000 +0000",
+      "stop": "20260220100000 +0000",
+      "title": "Fußball: Primeira Liga",
+      "subtitle": "Sporting Lissabon – FC Famalicao (22. Spieltag)",
+      "description": "Willkommen zur höchsten Spielklasse im portugiesischen Männerfußball. Eine Saison erstreckt sich über 34 Spieltage, wobei die Partien von Mitte August bis Ende Mai oder Anfang Juni ausgetragen werden. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220100000 +0000",
+      "stop": "20260220102500 +0000",
+      "title": "The Football Review",
+      "subtitle": "",
+      "description": "",
+      "category": "Magazin",
+      "icon": "http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"
+    },
+    {
+      "start": "20260220102500 +0000",
+      "stop": "20260220105500 +0000",
+      "title": "Football Nation",
+      "subtitle": "UEFA (29)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220105500 +0000",
+      "stop": "20260220130000 +0000",
+      "title": "Saudi Pro League",
+      "subtitle": "Al-Ahli – Al-Najma (23. Spieltag)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220130000 +0000",
+      "stop": "20260220133000 +0000",
+      "title": "scooore Portugal! Alle Tore",
+      "subtitle": "Highlights Primeira Liga (22. Spieltag)",
+      "description": "Die Sendung informiert über die Highlights und alle Tore in den aktuellen Spielen im portugiesischen Fußball. Die Erste Liga bietet unterhaltsame Spiele auf allerhöchstem Niveau. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220133000 +0000",
+      "stop": "20260220153000 +0000",
+      "title": "Fußball: AFC Champions League Two",
+      "subtitle": "Al-Nassr (SAR) – FC Arkadag (TUR) (Achtelfinale, Rückspiel)",
+      "description": "Der AFC Cup ist für Asien das, was die UEFA Europa League für Europa ist: der zweithöchste Fußballwettbewerb für die Vereinsmannschaften auf dem Kontinent.  (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220153000 +0000",
+      "stop": "20260220173000 +0000",
+      "title": "Fußball: Scottish Premiership",
+      "subtitle": "FC Kilmarnock – Celtic Glasgow (27. Spieltag)",
+      "description": "Die Scottish Premiership ist seit 2013 die höchste Fußballliga in Schottland und gehört zur Scottish Professional Football League. 2013 wurde sie als Nachfolger für die Scottish Premier League gegründet.  (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220173000 +0000",
+      "stop": "20260220193000 +0000",
+      "title": "Eredivisie",
+      "subtitle": "Feyenoord Rotterdam – Go Ahead Eagles (23. Spieltag)",
+      "description": "In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220193000 +0000",
+      "stop": "20260220214500 +0000",
+      "title": "Fußball: FA-Cup",
+      "subtitle": "Salford City – Manchester City (4. Runde)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220214500 +0000",
+      "stop": "20260220220000 +0000",
+      "title": "Zlatan Ibrahimovic – Top 25",
+      "subtitle": "Eredivisie Top Goals",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220220000 +0000",
+      "stop": "20260220223000 +0000",
+      "title": "The Football Review",
+      "subtitle": "",
+      "description": "",
+      "category": "Magazin",
+      "icon": "http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"
+    },
+    {
+      "start": "20260220223000 +0000",
+      "stop": "20260220225500 +0000",
+      "title": "Football Nation",
+      "subtitle": "UEFA (29)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260220225500 +0000",
+      "stop": "20260221011500 +0000",
+      "title": "Liga Profesional Apertura",
+      "subtitle": "Boca Juniors – Racing Club (6. Spieltag)",
+      "description": "Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221011500 +0000",
+      "stop": "20260221031500 +0000",
+      "title": "Eredivisie",
+      "subtitle": "Feyenoord Rotterdam – Go Ahead Eagles (23. Spieltag)",
+      "description": "In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221031500 +0000",
+      "stop": "20260221034500 +0000",
+      "title": "The Football Review",
+      "subtitle": "19.02.2026",
+      "description": "",
+      "category": "Magazin",
+      "icon": "http://img.tvspielfilm.de/a1/29/4a/6177d1a08189652ccb4a29a1.jpeg"
+    },
+    {
+      "start": "20260221034500 +0000",
+      "stop": "20260221041000 +0000",
+      "title": "Football Nation",
+      "subtitle": "UEFA (29)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221041000 +0000",
+      "stop": "20260221061500 +0000",
+      "title": "Liga Profesional Apertura",
+      "subtitle": "Boca Juniors – Racing Club (6. Spieltag)",
+      "description": "Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221061500 +0000",
+      "stop": "20260221081500 +0000",
+      "title": "Eredivisie",
+      "subtitle": "Feyenoord Rotterdam – Go Ahead Eagles (23. Spieltag)",
+      "description": "In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221081500 +0000",
+      "stop": "20260221083000 +0000",
+      "title": "Ruud van Nistelrooy – Top 25",
+      "subtitle": "Eredivisie Top Goals",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221083000 +0000",
+      "stop": "20260221105000 +0000",
+      "title": "A-League",
+      "subtitle": "Melbourne City – Melbourne Victory (18. Spieltag)",
+      "description": "Der Fußball fristete in Australien lange ein Dasein als Randsportart, erfreut sich aber zunehmender Beliebtheit. In der höchsten Spielklasse spielen neun australische und ein neuseeländischer Club. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221105000 +0000",
+      "stop": "20260221114000 +0000",
+      "title": "Scooore! – Internationales Fußball-Magazin",
+      "subtitle": "Tore und Ergebnisse international",
+      "description": "Gezeigt werden Szenen aus der Eredivisie (Niederlande), Liga NOS (Portugal), Hyundai A-League (Australien), J. League (Japan) sowie die Copa Libertadores, Copa Sudamericana und Copa do Brasil. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221114000 +0000",
+      "stop": "20260221121000 +0000",
+      "title": "90in30",
+      "subtitle": "Afrika-Cup: Senegal – Marokko (Finale)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221121000 +0000",
+      "stop": "20260221124000 +0000",
+      "title": "Scottish Premiership",
+      "subtitle": "90in30: Glasgow Rangers – Heart of Midlothian (27. Spieltag)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221124000 +0000",
+      "stop": "20260221144000 +0000",
+      "title": "Fußball: FA-Cup",
+      "subtitle": "Liverpool FC – Brighton & Hove Albion (4. Runde)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221144000 +0000",
+      "stop": "20260221164000 +0000",
+      "title": "Liga Profesional Apertura",
+      "subtitle": "Boca Juniors – Racing Club (6. Spieltag)",
+      "description": "Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221164000 +0000",
+      "stop": "20260221165500 +0000",
+      "title": "Luis Suarez – Top 25",
+      "subtitle": "Eredivisie Top Goals",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221165500 +0000",
+      "stop": "20260221171000 +0000",
+      "title": "Zlatan Ibrahimovic – Top 25",
+      "subtitle": "Eredivisie Top Goals",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221171000 +0000",
+      "stop": "20260221173500 +0000",
+      "title": "Football Nation",
+      "subtitle": "UEFA (29)",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221173500 +0000",
+      "stop": "20260221195500 +0000",
+      "title": "Fußball: Eredivisie",
+      "subtitle": "PSV Eindhoven – SC Heerenveen (24. Spieltag)",
+      "description": "In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221195500 +0000",
+      "stop": "20260221221500 +0000",
+      "title": "Eredivisie",
+      "subtitle": "Ajax Amsterdam – NEC Nijmegen (24. Spieltag)",
+      "description": "In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260221221500 +0000",
+      "stop": "20260222001500 +0000",
+      "title": "A-League",
+      "subtitle": "Melbourne City – Melbourne Victory (18. Spieltag)",
+      "description": "Der Fußball fristete in Australien lange ein Dasein als Randsportart, erfreut sich aber zunehmender Beliebtheit. In der höchsten Spielklasse spielen neun australische und ein neuseeländischer Club. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222001500 +0000",
+      "stop": "20260222021500 +0000",
+      "title": "Liga Profesional Apertura",
+      "subtitle": "Boca Juniors – Racing Club (6. Spieltag)",
+      "description": "Vorhang auf zur höchsten Spielklasse des argentinischen Fußballs: Die Primera División wurde 1985 als Nachfolger des Campeonato de Primera División und des Torneo Metropolitano gegründet. 24 Vereine sind in der Liga vertreten. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222021500 +0000",
+      "stop": "20260222023000 +0000",
+      "title": "Zlatan Ibrahimovic – Top 25",
+      "subtitle": "Eredivisie Top Goals",
+      "description": "",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    },
+    {
+      "start": "20260222023000 +0000",
+      "stop": "20260222043000 +0000",
+      "title": "Eredivisie",
+      "subtitle": "PSV Eindhoven – SC Heerenveen (24. Spieltag)",
+      "description": "In der höchsten Spielklasse des niederländischen Fußballs treten 18 Mannschaften an 34 Spieltagen gegeneinander an. Dabei dominieren die Vereine Ajax Amsterdam, PSV Eindhoven und Feyenoord Rotterdam. (Senderinfo).",
+      "category": "Fußball",
+      "icon": "http://img.tvspielfilm.de/29/24/4a/6177ce218189652ccb4a2429.jpeg"
+    }
   ]
 }
