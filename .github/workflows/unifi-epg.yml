@@ -28,17 +28,15 @@ jobs:
 
       - name: Download and Run Python Script
         run: |
-          ORIGINAL_URL="${{ secrets.EPG }}"
-          MODIFIED_URL="${ORIGINAL_URL/epg-scraper.py/unify-epg-scraper.py}"
-          curl -o epg.py "$MODIFIED_URL"
-
+          curl -o epg.py "${{ secrets.UNIFI_EPG }}"
+          python epg.py
 
       - name: Commit and push the epg files
         run: |
           git config --global user.name "actions-user"
           git config --global user.email "actions@github.com"
           
-          git add unify_epg.xml unify_epg.xml.gz
+          git add unifi_epg.xml unifi_epg.xml.gz
           git status
           git diff --staged --name-only  
           
